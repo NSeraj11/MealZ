@@ -1,6 +1,6 @@
 {
-  "main.js": "/MealZ/static/js/main.03b0ff06.chunk.js",
-  "main.js.map": "/MealZ/static/js/main.03b0ff06.chunk.js.map",
+  "main.js": "/MealZ/static/js/main.b1c109b4.chunk.js",
+  "main.js.map": "/MealZ/static/js/main.b1c109b4.chunk.js.map",
   "static/css/1.178dcbce.chunk.css": "/MealZ/static/css/1.178dcbce.chunk.css",
   "static/js/1.73cf961c.chunk.js": "/MealZ/static/js/1.73cf961c.chunk.js",
   "static/js/1.73cf961c.chunk.js.map": "/MealZ/static/js/1.73cf961c.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/MealZ/static/js/runtime~main.0d02e923.js.map",
   "static/css/1.178dcbce.chunk.css.map": "/MealZ/static/css/1.178dcbce.chunk.css.map",
   "index.html": "/MealZ/index.html",
-  "precache-manifest.151a5844949438541decbd51995c7922.js": "/MealZ/precache-manifest.151a5844949438541decbd51995c7922.js",
+  "precache-manifest.22b9d71334a2c4c32172d7ba9c2f7847.js": "/MealZ/precache-manifest.22b9d71334a2c4c32172d7ba9c2f7847.js",
   "service-worker.js": "/MealZ/service-worker.js"
 }
