@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "144219a67a2718bc5521",
-    "url": "/MealZ/static/js/main.144219a6.chunk.js"
+    "revision": "03b0ff06ec166a264920",
+    "url": "/MealZ/static/js/main.03b0ff06.chunk.js"
   },
   {
     "revision": "73cf961cfa314fcde346",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/MealZ/static/js/runtime~main.0d02e923.js"
   },
   {
-    "revision": "e570177ef00ba559123cd856ffe841d2",
+    "revision": "9a250da6e54c9c33e7f71e465d341c3e",
     "url": "/MealZ/index.html"
   }
 ];
