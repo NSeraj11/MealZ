@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/MealZ/static/js/runtime~main.0d02e923.js"
   },
   {
-    "revision": "b5e1b5ba873a42c747d2cc5d9e887deb",
+    "revision": "8b365109209976963073af9aede70842",
     "url": "/MealZ/index.html"
   }
 ];
